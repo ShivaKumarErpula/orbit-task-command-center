@@ -1,4 +1,4 @@
-# Welcome to your Orbit Task Command Center project
+#Orbit Task Command Center project
 
 ## Project info
 
